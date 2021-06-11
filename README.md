@@ -15,7 +15,8 @@ $pip install opencv-python
 <br><br><br>
 
 <h1>2.Face detection in pictures<h1>
-  This program uses haarcascade method to detect face
+
+This program uses cascade method to detect face
 
   <h3>Installation Required</h3>
 $pip install opencv-python
